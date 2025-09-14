@@ -24,11 +24,11 @@ repository               : "https://likexin1415.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "李科新"
+  name             : "Ke-Xin Li"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "杭州"
-  employer         : "西安电子科技大学杭州研究院"
+  location         : "Hangzhou"
+  employer         : "Xidian University"
   uri              : # URL
   email            : "likexin02@xidian.edu.cn" 
 
