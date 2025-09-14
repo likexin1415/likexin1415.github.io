@@ -26,11 +26,11 @@ author:
   avatar           : "LKX 640x480.png"
   name             : "Ke-Xin Li"
   pronouns         : # example: "she/her"  
-  bio              : # ""
+  bio              : # Short Bio
   location         : "Hangzhou"
   employer         : "Xidian University"
   uri              : # URL
-  email            : # "" 
+  email            : # Email 
 
   # Academic websites
   academia         : # URL
